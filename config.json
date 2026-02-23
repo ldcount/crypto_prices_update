@@ -1,0 +1,11 @@
+{
+  "tickers": [
+    "ETH",
+    "PEPE",
+    "HYPE",
+    "ASTER",
+    "PIPPIN",
+    "APEX"
+  ],
+  "frequency_minutes": 30
+}

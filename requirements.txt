@@ -1,0 +1,2 @@
+pybit==5.8.0
+python-telegram-bot[job-queue]==21.7
